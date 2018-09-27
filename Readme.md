@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Катерина Пшеничнова](https://up.htmlacademy.ru/adaptive/15/user/692341).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Баранков](https://up.htmlacademy.ru/adaptive/15/user/518169).
 
 ---
 
